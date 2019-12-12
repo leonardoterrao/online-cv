@@ -3,187 +3,265 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Leonardo Terrão
+    tagline: Software Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: leonardoterrao@gmail.com
+    phone: +55 44 9 9923-3714
+    website: leonardoterrao.github.io #do not add http://
+    linkedin: leonardoterrao/en
+    github: leonardoterrao
     gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    bitbucket: leonardoterrao
+    twitter: '@leonardoterrao'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Portuguese
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Traveling
         link:
 
-      - item: Snowboarding
+      - item: Drinking
         link:
 
-      - item: Cooking
+      - item: Eating
+        link:
+
+      - item: Talking
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I'm a Software developer with good experience with Java technologies.
+
+      I love this profession because it provides me new challenges every day,
+      and we always need to learn new things to solve our problems.
+      I can solve my problems with different solutions and,
+      I can choose the way we do things as long as we deliver what we are doing!
+
+      Working as a software developer helped me do make who I am now.
+      I'm a professional who can handle many problems and remember many details.
+       A professional who can manage his own time, who can hear, speak and learn better.
+        A professional who can help other people with knowledge.
+        A professional you can trust.
+      This profession gave me a quality of life,
+      knowledge and many values that a human can have.
+
+      For this, I am very grateful and happy with my life!
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Exchange Program in Toronto
+      university: LSI Toronto
+      time: 09/2017 - 10/2017
+      details:
+    - degree: Oracle Certified Professional, Java SE 6 Programmer
+      university: Dale Carnegie Training
+      time: 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        OC1499493
+    - degree: Object Oriented Systems Development in Java
+      university: University Center of Maringá
+      time: 2012 - 2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Here I really started to learn Java!
+    - degree: Dale Carnegie Course
+      university: Dale Carnegie Training
+      time: 2012
+      details:
+    - degree: Technology Analysis and Systems Development
+      university: Paranaense University
+      time: 2009 - 2011
+      details: |
+        Here I met the technology world!
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: 01/2019 - Present
+      employmentType: Part-time
+      company: Youcanevent, San Francisco (remote)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        I'm working as a Back-end Java Developer.
+         I'm helping to build a marketplace for event organizers.
+         We're using Java 11, Spring Framework(Boot, Security, MVC),
+         Hibernate, Rest with Mysql database and, MariaDB for tests.
+
+    - role: Senior Java Software Engineer and Technical Team Lead
+      time: 01/2019 - Present
+      employmentType: Full-time
+      company: Tecsinapse, São Paulo (remote)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        I'm working at Tecsinapse doing software for car dealers and carmakers.
+        Here I work as a Software Developer and Technical Team Lead.
+        As a developer, I use the following technologies: Java(version 11),
+        Spring Framework (Core, Boot, Data, Rest, AMQP), Hibernate,
+        Hibernate Envers, JPA, Maven, Keycloak, RabbitMQ, React, GraphQL,
+        JavaScript, JSF, PrimeFaces, PostgreSQL.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        As a Technical Team Lead, I help the team to plan what we have to develop,
+         the way we will do it and, what we will use during the development.
+          I also do code review, give feedback and follow de personal development
+           of the team members.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        Projects that I've worked and I'm working on Tecsinapse:
+          - Portal for carmakers (Volvo, Ducati, VWCO, Triumph, BMW, and migrating more on next weeks)
+          - Incentive Payment (Used by Audi, Triumph, and BMW)
+          - Customer Relationship Center (Used by all customers to contact Tecsinapse to give a suggestion, report errors, and ask questions)
+          - Sales module of our main product (BMW, Nissan, Mercedes Benz, Carrera Group, Divena Group, etc)
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - role: Java Software Engineer
+      time: 11/2015 - 12/2018
+      employmentType: Full-time
+      company: Tecsinapse, São Paulo (remote)
+      details: |
+        I'm working at Tecsinapse doing software for car dealers and carmakers.
+        As a developer, I use the following technologies: Java(version 11),
+        Spring Framework (Core, Boot, Data, Rest, AMQP), Hibernate, Hibernate Envers,
+        JPA, Maven, Keycloak, RabbitMQ, React, GraphQL, JavaScript, JSF, PrimeFaces,
+        PostgreSQL.
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        My responsibilities were to take features and delivery it in production.
+        I also maintain the software in production fixing bugs and,
+        updating what the customers need. For development, we use Kanban
+         and Scrum methodologies.
+    - role: Java Web Developer
+      time: 11/2012 - 11/2015
+      employmentType: Full-time
+      company: CodeIT Solutions, Maringá
+      details: |
+        My main missions were software development, code review and some
+        analysis for new developments.
+        I've worked doing software for life insurance
+         and private pension at CodeIt. Projects I've worked there:
+          - Project for life insurance and private pension (used by SulAmerica Insurance)
+          - Quotation for life insurance and private pension (used by SulAmerica)
+          - Mobile projects for prospects.
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        Some technologies I've used there: Java(version 6),
+        Spring Framework(Core, WebFlow), Hibernate, JPA, PL/SQL, JSF,
+         Rich Faces, PrimeFaces, Cordova, Jenkins, Jetty, JBoss,
+          JavaScript, Cordova, Phonegap, Oracle, and H2.
+    - role: Java Web Developer
+      time: 08/2012 - 12/2015
+      employmentType: Part-time
+      company: Via Láctea Sistemas, Maringá (remote)
+      details: |
+        I've worked at Via Láctea with software for proactive management.
+        My responsibilities were developing, build new screens, and automating processes.
+        I used these technologies there: Java, Spring(Core, Security, WebFlow),
+         Hibernate, PrimeFaces, Git and Mysql.
+    - role: Software Develope
+      time: 07/2011 - 11/2015
+      employmentType: Full-time
+      company: Virtual Age Soluções Tecnológicas, Cianorte
+      details: |
+        I started my software developer career at Virtual Age.
+         My mission there was to research new technologies and develop
+         small projects to test the things that I found in my research.
+          They sent me a stack, and then I research it doing a small project,
+           to check if the technology is interesting for the company.
+        I worked there in two small projects too:
+          - Small website using Java with GWT to organize some installations
+          file from other software that they have there.
+          - Forum for use on the intranet, to the collaborators,
+          asks business and technical questions.
+    - role: Ironer
+      time: 08/2008 - 07/2011
+      employmentType: Full-time
+      company: Rouvaplas, Japurá
+      details: |
+        I worked at Rouvaplas ironing clothes. It was a very hard work,
+         but helped me a lot to pay my degree.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+#
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Hibernate
+        level: 87%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Spring
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Maven
+        level: 85%
+
+      - name: SQL
+        level: 80%
+
+      - name: JSF
         level: 60%
+
+      - name: JavaScript
+        level: 30%
+
+      - name: React
+        level: 15%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

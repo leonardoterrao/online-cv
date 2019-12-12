@@ -19,7 +19,10 @@
         <div class="time">{{ experience.time }}</div>
       </div><!--//upper-row-->
 
-      <div class="company">{{ experience.company }}</div>
+      <div class="company">
+        {{ experience.company }} - 
+        <i class="employmentType">{{ experience.employmentType }}</i>
+      </div>
 
     </div><!--//meta-->
 
@@ -34,4 +37,3 @@
 
 </section><!--//section-->
 {% endif %}
-
